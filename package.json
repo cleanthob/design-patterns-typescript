@@ -1,0 +1,30 @@
+{
+  "name": "design-patterns-typescript",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000d\u0000e\u0000s\u0000i\u0000g\u0000n\u0000-\u0000p\u0000a\u0000t\u0000t\u0000e\u0000r\u0000n\u0000s\u0000-\u0000t\u0000y\u0000p\u0000e\u0000s\u0000c\u0000r\u0000i\u0000p\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleanthob/design-patterns-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleanthob/design-patterns-typescript/issues"
+  },
+  "homepage": "https://github.com/cleanthob/design-patterns-typescript#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.46.4",
+    "@typescript-eslint/parser": "^8.46.4",
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "prettier": "^3.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
